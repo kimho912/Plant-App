@@ -1,4 +1,5 @@
-Video Link - https://youtu.be/Yc8tSlL-2zM
+Video Link - [https://youtu.be/Yc8tSlL-2zM]\
+Figma Link - [https://www.figma.com/design/oUQkbOAfwcvydzJxUsAZft/hxk7176?node-id=0%3A1&t=aXuPmtubM7ZEFty9-1]\
 
 SETUP CODESPACES
 
